@@ -48,6 +48,6 @@ localhost:3000/skooter/forms
 
 ## License
 
-MIT License. Copyright 2022 K&F Consulting.
+MIT License. Copyright 2022
 
 
