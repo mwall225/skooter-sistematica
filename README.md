@@ -48,6 +48,6 @@ localhost:3000/skooter/forms
 
 ## License
 
-MIT License. Copyright 2018 K&F Consulting. http://www.dataconsulta.com
+MIT License. Copyright 2022 K&F Consulting.
 
-You are not granted rights or licenses to the trademarks of K&F Consulting, including without limitation the Skooter name or logo.
+
